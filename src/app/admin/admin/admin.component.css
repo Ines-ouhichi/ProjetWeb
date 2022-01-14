@@ -16,3 +16,9 @@ font-size: 2em;
 section > header .description {
 font-style: italic;
 }
+nav{
+    background-color:#B1D0E0
+}
+li {
+    padding:15px;
+}
